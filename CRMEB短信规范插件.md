@@ -25,3 +25,7 @@ How to use
 	4：短信模板配置，选择添加模板
 
 ![Submail](./markdown/2.png)
+
+
+[点击下载](https://github.com/submail-developers/crmeb_sms/archive/master.zip)
+
