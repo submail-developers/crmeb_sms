@@ -2,9 +2,19 @@
 
 ### CRMEB短信 Plug-Ins Overview
 
+>CRMEB是西安众邦科技旗下的基于客户关系管理和电子商务应用场景电销管理系统。
 ------
-	crmeb 短信插件
-How to use
+CRMEB [官网地址](https://www.crmeb.com)
+	
+文件路径
+
+-	app/admin/controller/sms/SmsConfig.php
+-	app/admin/controller/sms/SmsTemplateApply.php
+-	app/admin/model/sms/SmsRecord.php
+-	app/admin/view/sms/sms_config/index.php
+-	app/admin/view/sms/sms_template_apply/index.php
+-	crmeb/services/sms/storage/Yunxin.php
+-	crmeb/services/SMSService.php
 
 	1.将插件内的文件覆盖至你的网站系统根目录
 	2.进入系统后台->设置->短信设置，填写赛邮云短信相关的账号密码
@@ -27,5 +37,5 @@ How to use
 ![Submail](./markdown/2.png)
 
 
-[点击下载](https://github.com/submail-developers/crmeb_sms/archive/master.zip)
+[Github项目地址](https://github.com/submail-developers/crmeb_sms) &nbsp;&nbsp;&nbsp; [点击下载](https://github.com/submail-developers/crmeb_sms/archive/master.zip)
 
